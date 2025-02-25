@@ -66,13 +66,13 @@ npm start
 ```
 The frontend should now be running at http://localhost:5173
 
-##Usage
+## Usage
 
 The frontend communicates with the backend API to handle appointment bookings, login, and user management.
 Ensure that the backend is running before starting the frontend.
 You can register, login, view appointments, and book new appointments through the frontend interface.
 
-##Troubleshooting
+## Troubleshooting
 
 CORS issues: Ensure that CORS is configured correctly in the backend to allow requests from the frontend.
 Database issues: If you face issues with SQL Server, ensure that the connection string is correct and the database is accessible.
